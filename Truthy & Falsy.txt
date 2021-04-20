@@ -1,0 +1,10 @@
+Falsy
+	undefined
+	null
+	0
+	''
+	NaN
+	false
+
+Truthy
+	위에 애들 제외하면 모두 트루다!
